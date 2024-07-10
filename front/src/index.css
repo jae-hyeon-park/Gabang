@@ -1,0 +1,30 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css");
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+* {
+  font-family: 'Pretendard' !important; 
+}
+
+/* 스크롤바 전체 컨테이너 스타일 */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+/* 스크롤바 핸들 */
+::-webkit-scrollbar-thumb {
+  background-color: #3770FB; /* 핸들의 색상 */
+  border-radius: 10px; /* 핸들의 둥근 모서리 */
+  border: 2px solid transparent; /* 투명한 테두리 추가 */
+  background-clip: padding-box; /* 배경색을 테두리 안쪽으로 제한 */
+}
+
+
+/* product detail 부분 */
+.blue-overlay {
+   background-color: rgb(0, 72, 255, 0.8); /*여기서 rgba의 마지막 값은 투명도를 조정합니다. */
+  mix-blend-mode: multiply; /* 배경과 혼합하여 파란색 톤을 더합니다. */
+}

@@ -1,0 +1,17 @@
+[
+    {
+      "sender": "user02",
+      "contents": "Hello, are you there?",
+      "inputDate": "2024-04-01T12:00:00Z"
+    },
+    {
+      "sender": "user01",
+      "contents": "Yes, I'm here! How can I help you today?",
+      "inputDate": "2024-04-01T12:01:00Z"
+    },
+    {
+      "sender": "user02",
+      "contents": "I'm interested in the product you posted. Is it still available?",
+      "inputDate": "2024-04-01T12:02:00Z"
+    }
+  ]
