@@ -28,18 +28,18 @@ https://github.com/jae-hyeon-park/Heatmap/assets/79794772/0eacda56-a2ef-4b17-86a
 ---
 
 ### 4.프로젝트 수행절차 및 방법
-- #### WBS
-- ![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/ef5afc41-503d-45ea-a67a-c3bdb88813fe)
+ #### WBS
+![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/ef5afc41-503d-45ea-a67a-c3bdb88813fe)
 
-- #### 스크럼 및 스프린트
-- ![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/9bb1a04b-dfe3-48d2-8d66-74c1a96d193c)
+ #### 스크럼 및 스프린트
+![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/9bb1a04b-dfe3-48d2-8d66-74c1a96d193c)
 
-- #### 개발 규칙
-- ![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/5778e8d7-cc1c-45e9-a006-94c1c6bae2dc)
+ #### 개발 규칙
+![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/5778e8d7-cc1c-45e9-a006-94c1c6bae2dc)
 
-- #### API, 페이지 경로 명세
-- ![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/3a03a1fa-e2b6-48f9-97e6-d62d1b722e16)
-- ![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/8c1741bb-8fa8-41cd-a4db-52aec8878ffc)
+#### API, 페이지 경로 명세
+![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/3a03a1fa-e2b6-48f9-97e6-d62d1b722e16)
+![image](https://github.com/jae-hyeon-park/Gabang/assets/79794772/8c1741bb-8fa8-41cd-a4db-52aec8878ffc)
 
 
 ---
