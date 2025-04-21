@@ -43,3 +43,12 @@ https://github.com/jae-hyeon-park/Heatmap/assets/79794772/0eacda56-a2ef-4b17-86a
 
 
 ---
+
+### 5.프로젝트 구조
+- #### 인프라
+![image](https://github.com/user-attachments/assets/ea41a662-56c1-430b-9af6-1dc68b3cccba)
+
+- #### ERD
+![image](https://github.com/user-attachments/assets/af837bdc-eb64-49e5-9056-e812923c937f)
+
+
